@@ -8,11 +8,10 @@ titles:
 key: page-about
 ---
 
-# Welcome to MrChannon's Pages
+<!-- # Welcome to MrChannon's Pages -->
 
 ### ▶ Personal
 
-| :-----------------------------: | :------------------------: |
 | Chinese Name: 陈龙              | English Name: Long Chen   |
 | Gender: Male                    | City: Shenzhen, China       | 
 | Job Title:  | Community Title: |

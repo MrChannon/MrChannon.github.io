@@ -51,7 +51,7 @@ priority, the transfer cost and the payloads consumption. An adapted GA based mu
 
 <br> Air-Ground Logistics Integration with Dispatching UAV  ,     Researcher & Author
 
-- The research is a national college student research project guided by Quan Pan-Dean ofautomation school, Northwestern Polytechnical University, which is an innovative project for domestic delivery. We aim to schedule the UAV flight path under multi-constraint based on reality, which taking the minimal traveling cost and shortest delivery time, division of cold chain and ordinary logistics, aerial vehicle capacity, delivery and pickup requirement, the damage rate of cold chain goods, time window, and the like, into consideration. Then computer experiment is carried out by applying a commercial linear equation solver Gurobi. (Spring 2019)
+<!-- - The research is a national college student research project guided by Quan Pan-Dean ofautomation school, Northwestern Polytechnical University, which is an innovative project for domestic delivery. We aim to schedule the UAV flight path under multi-constraint based on reality, which taking the minimal traveling cost and shortest delivery time, division of cold chain and ordinary logistics, aerial vehicle capacity, delivery and pickup requirement, the damage rate of cold chain goods, time window, and the like, into consideration. Then computer experiment is carried out by applying a commercial linear equation solver Gurobi. (Spring 2019) -->
 
 ----------
 

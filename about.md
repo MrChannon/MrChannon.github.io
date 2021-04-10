@@ -11,7 +11,8 @@ key: page-about
 <!-- # Welcome to MrChannon's Pages -->
 
 ### ▶ Personal
-|  :------------: | :------------: |
+|                                |                           |
+| :-----------------------------: | :------------------------: |
 | Chinese Name: **陈龙**              | English Name: **Long Chen**   |
 | Gender: Male                    | City: Shenzhen, China       | 
 | Job Title:  | Community Title: |
@@ -20,7 +21,7 @@ key: page-about
 ### ▶ Education
 
 - **Bachelor degree**, major in Automation, Sep.2015-Jun.2019, [Northwestern Polytechnical University](https://www.nwpu.edu.cn/)
-- **Master degree**, major in Automation, Sep.2019-Pre, [Harbin Institute of Technology, Shenzhen](http://www.hitsz.edu.cn/index.html)
+- **Master degree**, major in Pattern Recognition and Intelligent System, Sep.2019-Pre, [Harbin Institute of Technology, Shenzhen](http://www.hitsz.edu.cn/index.html)
 - School of Mechanical Engineering and Automation
 - Master degree candidate, [Networked Robotics and Systems Lab](http://nrs-lab.com/), led by professor Haoyao Chen.
 

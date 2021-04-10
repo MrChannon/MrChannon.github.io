@@ -30,7 +30,6 @@ key: page-about
 
 ### ▶ Personal
 
-|                                |                           |
 | :-----------------------------: | :------------------------: |
 | Chinese Name: 陈龙              | English Name: Long Chen   |
 | Gender: Male                    | City: Shenzhen, China       | 
@@ -43,12 +42,9 @@ key: page-about
 - School of Mechanical Engineering and Automation
 - Master degree candidate, [Networked Robotics and Systems Lab](http://nrs-lab.com/), led by professor Haoyao Chen.
 
-----------
-
 
 ### ▶ Projects
 
------------
 
 ### ▶ Publication
 

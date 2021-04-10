@@ -50,7 +50,9 @@ key: page-about
 priority, the transfer cost and the payloads consumption. An adapted GA based multi-objective Pareto Frontier optimization is utilized to determine the optimal solution, as it performs better and needs less computation time. Now the results have been presented at the International Conference on Evolutionary Computing. (Summer 2019)
 
 <br> Air-Ground Logistics Integration with Dispatching UAV  ,     Researcher & Author
+
 - The research is a national college student research project guided by Quan Pan-Dean ofautomation school, Northwestern Polytechnical University, which is an innovative project for domestic delivery. We aim to schedule the UAV flight path under multi-constraint based on reality, which taking the minimal traveling cost and shortest delivery time, division of cold chain and ordinary logistics, aerial vehicle capacity, delivery and pickup requirement, the damage rate of cold chain goods, time window, and the like, into consideration. Then computer experiment is carried out by applying a commercial linear equation solver Gurobi. (Spring 2019)
+
 ----------
 
 ### ▶ Honors and Awards
@@ -84,10 +86,12 @@ on Network, Communication, Computer Engineering (NCCE 2018). Atlantis Press.
 ----------
 
 ### ▶ Patent
+Under way 
+
 
 ### ▶ Other Information
 
-- Languages: Chinese (Mandarin, native), English (IELTS, 6.5).
+- Languages: Chinese (Mandarin, native), CET-6 ,English (IELTS, 6.5). 
 - Hobbies: Multimedia Design, Photography, Table Tennis, Jogging.
 - Typesetting: MS Office, LaTeX.
 - Programming: C/C++, Python, SQL, Shell, Java.

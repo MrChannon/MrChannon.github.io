@@ -21,7 +21,7 @@ key: page-about
 
 ### ▶ Education
 ----------------------------------------
-- [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), Xi’an, China                               **B.S.** 09/2015 -- 07/2019
+- [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), Xi’an, China      **B.S.** 09/2015 -- 07/2019
 <br> College of Automation
 <br> Major: Automation (Information Engineering)
 <br> Dissertation: Change Detection of Synthetic Aperture Radar Image Based on Deep Learning

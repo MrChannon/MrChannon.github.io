@@ -13,11 +13,18 @@ key: page-about
 ### ▶ Basic Infomation
 ----------------------------------------
 - Chinese Name: **陈龙**                                                     <!-- 在右侧添加个人照片-->
+
 - English Name: **Long Chen**
-- Gender: Male                   
-- City: Shenzhen, China
-- Job Title:
-- Community Title:
+
+- Gender: Male
+
+- Master degree candidate, [Networked Robotics and Systems Lab](http://nrs-lab.com/)                   
+
+- Adress: Harbin Institute of Technology, Shenzhen, China
+
+- Job Title: Software Developer
+
+  <!--Community Title:-->
 
 ### ▶ Education
 ----------------------------------------
@@ -28,21 +35,28 @@ key: page-about
 <br> Supervisor: Associate Prof. Lin Li
 <!--<br> GPA: 90.2/100 Ranking: 5/119-->
 
-- [Harbin Institute of Technology](http://www.hitsz.edu.cn/index.html), Shenzhen, China         **M.S.** 09/2019 -- Pres.
+- [Harbin Institute of Technology](http://www.hitsz.edu.cn/index.html), Shenzhen, China          **M.S.** 09/2019 -- Pres.
 <br> School of Mechanical Engineering and Automation
 <br> Major: Pattern Recognition and Intelligent System
-<br> Research Interest: Real-time Object Detection and Grasp of UAM Based on Embedded NPU
+<br> Research Interest: Robotics, Artificial Intelligence, Control Systems Engineering
 <br> Supervisor: Prof. Hao-Yao Chen, Leader of [Networked Robotics and Systems Lab](http://nrs-lab.com/)
 
 ----------
 
-### ▶ Projects
+### ▶ Projects 
 
 **Department of Control Science & Engineering, Harbin Institute of Technology, Shenzhen**
 <br> Master Student  09/2019 -- Pres.
-<br> Real-time Object Detection and Grasp of UAM Based on Embedded NPU    ,        Researcher
+<br>
 
-- A novel real-time target detection system based on embedded NPU is researched and designed, including hardware platform building, software framework and algorithm flow. The system feeds the images collected by RGB-D camera into the system for stable model inference, which mainly relies on the target detection model based on deep learning, and finally returns the class and location information of the target. These information will be used for UAM ’s further operation. Both the theoretical analysis and the numerical experiment show that the proposed algorithm has a faster convergence rate and fewer parameters if the model pruning and retraining parameter is chosen carefully. (Spring 2020)   <!--在这里添加图片-->
+<img src="./pics/about/figure.jpg" width = "250" align='left'/>
+
+<p align="left">
+<h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Real-time Object Detection and Grasp of UAM Based on Embedded NPU , Researcher</h5>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019.10 - now <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A novel real-time target detection system based on embedded NPU is researched and designed, including hardware platform building, software framework and algorithm flow. The system feeds the images collected by RGB-D camera into the system for stable model inference, which mainly relies on the target detection model based on deep learning, and finally returns the class and location information of the target. These information will be used for UAM ’s further operation. Both the theoretical analysis and the numerical experiment show that the proposed algorithm has a faster convergence rate and fewer parameters if the model pruning and retraining parameter is chosen carefully. <br> 
+</p>
+
 - The related code is open source in the [Gitee community of Huawei's Shengteng.](https://gitee.com/ascend)
 
 **Department of Automation, Northwestern Polytechnical University**
@@ -73,24 +87,24 @@ priority, the transfer cost and the payloads consumption. An adapted GA based mu
 - Honor of Excellent Student Cadre of Northwestern Polytechnical University. May. 2017.
 - [National Scholarship for Outstanding College Students.](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91/9693046?fr=aladdin)  Oct. 2016. (Highest award for undergraduates in China, top 2%)
 
-### ▶ Publication      <!--添加Researchgate-->
+### ▶ Publication 
 
-- Zhang, Y., & Chen, L. (2018, May). A Hybrid Forecasting Model Based on Modified
-Bat Algorithm and ELM: A Case Study for Wind Speed Forecasting. In IOP Conference
-Series: Earth and Environmental Science (Vol. 153, No. 2, p. 022001). IOP Publishing.
-(EI)<!--添加论文链接-->
-- Wang, D., Li, L., & Chen, L. (2019, June). An Efficient Genetic Algorithm for Active
+- Zhang, Y., & **Chen, L.** (2018, May). A Hybrid Forecasting Model Based on Modified
+  Bat Algorithm and ELM: A Case Study for Wind Speed Forecasting. In IOP Conference
+  Series: Earth and Environmental Science (Vol. 153, No. 2, p. 022001). IOP Publishing.
+  (EI)  [pdf](https://iopscience.iop.org/article/10.1088/1755-1315/153/2/022001/meta)
+- Wang, D., Li, L., & **Chen, L.** (2019, June). An Efficient Genetic Algorithm for Active
 Space Debris Removal Planning. In 2019 IEEE Congress on Evolutionary Computation
-(CEC) (pp. 514-521). IEEE. (EI)<!--添加论文链接-->
-- Zhang, Y., Zhai, S., Wang, D., & Chen, L. (2018, May). Path Planning-aiding System of
+(CEC) (pp. 514-521). IEEE. (EI) [pdf](https://ieeexplore.ieee.org/abstract/document/8790081?casa_token=M89UsmjTNegAAAAA:chnzjqNyUdKb6BJuCTNQbkcK82B8YwSSfU3pEqlRRZ4mYxXopMMEe7UCRAxbgcuysQW3OYS9GII)
+- Zhang, Y., Zhai, S., Wang, D., & **Chen, L.** (2018, May). Path Planning-aiding System of
 Unmanned Aerial Vehicle in Freight Transportation. In 2018 International Conference
-on Network, Communication, Computer Engineering (NCCE 2018). Atlantis Press.<!--添加论文链接-->
-- Chen, L., Hu, J., Li, X., Quan, F., & Chen, H. (uncertain).Onboard Real-time Object Detection for UAV with Embedded NPU.
+on Network, Communication, Computer Engineering (NCCE 2018). Atlantis Press. [pdf](https://www.atlantis-press.com/proceedings/ncce-18/25896641)
+- **Chen, L.**, Hu, J., Li, X., Quan, F., & Chen, H. (2021, July).Onboard Real-time Object Detection for UAV with Embedded NPU. In *2021 11th Institute of Electrical and Electronics Engineers  International Conference on Cyber Technology in Automation, Control, and Intelligent Systems (CYBER)* (pp. 43-48). IEEE. [pdf]()
 
 ----------
 
 ### ▶ Patent
-Under way 
+Under way
 
 
 ### ▶ Other Skills
@@ -103,3 +117,5 @@ Under way
 - Hardware: HUAWEI Atlas 200DK, stm32 chips, FPGA.
 
 ### ▶ Life
+
+- To be updated

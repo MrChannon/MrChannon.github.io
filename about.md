@@ -58,6 +58,10 @@ key: page-about
 </p>
 
 
+
+
+
+
 - The related code is open source in the [Gitee community of Huawei's Shengteng.](https://gitee.com/ascend)
 - A novel real-time target detection system based on embedded NPU is researched and designed, including hardware platform building, software framework and algorithm flow. The system feeds the images collected by RGB-D camera into the system for stable model inference, which mainly relies on the target detection model based on deep learning, and finally returns the class and location information of the target. These information will be used for UAM ’s further operation. Both the theoretical analysis and the numerical experiment show that the proposed algorithm has a faster convergence rate and fewer parameters if the model pruning and retraining parameter is chosen carefully.
 
@@ -75,6 +79,12 @@ key: page-about
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lead Researcher, Author <br> 
 </p>
 
+
+
+
+
+
+
 - The project initially is the part of a national program undertaken by the mentor. While space debris in Low Earth Orbit poses a great threat to space activities, the Active Debris Removal is an effective method to relieve the risk of astronautic missions. We built a corresponding offline multi-objective optimal planning model, which comprehensively considers the debris priority, the transfer cost and the payloads consumption. An adapted GA based multi-objective Pareto Frontier optimization is utilized to determine the optimal solution, as it performs better and needs less computation time. Now the results have been presented at the International Conference on Evolutionary Computing.
 
 ------
@@ -86,6 +96,12 @@ key: page-about
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2017.05 - 2018.05 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Researcher, Author <br> 
 </p>
+
+
+
+
+
+
 
 - The research is a national college student research project guided by Quan Pan-Dean ofautomation school, Northwestern Polytechnical University, which is an innovative project for domestic delivery. We aim to schedule the UAV flight path under multi-constraint based on reality, which taking the minimal traveling cost and shortest delivery time, division of cold chain and ordinary logistics, aerial vehicle capacity, delivery and pickup requirement, the damage rate of cold chain goods, time window, and the like, into consideration. Then computer experiment is carried out by applying a commercial linear equation solver Gurobi.
 
@@ -101,15 +117,21 @@ key: page-about
 
 - The research is.
 
+
+
+
+
+
+
 ------
 
 ### ▶ Other Projects 
 
-<img src="./pics/about/map.png" width = "350" align='left'/>
+<img src="./pics/about/map.png" width = "350" align='center'/>
 
-<img src="./pics/about/noise.png" width = "350" align='left'/>
+<img src="./pics/about/noise.png" width = "350" align='center'/>
 
-<img src="./pics/about/palmprint.png" width = "350" align='left'/>
+<img src="./pics/about/palmprint.png" width = "350" align='center'/>
 
 ----------
 

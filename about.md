@@ -12,11 +12,9 @@ key: page-about
 
 ### ▶ Basic Infomation
 ----------------------------------------
-- Chinese Name: **陈龙**                                                     <!-- 在右侧添加个人照片-->
+# **陈龙**      **Channon**                                               
 
-- English Name: **Long Chen**
-
-- Gender: Male
+<!-- 在右侧添加个人照片-->
 
 - Master degree candidate, [Networked Robotics and Systems Lab](http://nrs-lab.com/)                   
 
@@ -132,6 +130,19 @@ key: page-about
 <img src="./pics/about/noise.png" width = "350" align='center'/>
 
 <img src="./pics/about/palmprint.png" width = "350" align='center'/>
+
+
+
+<img src="./pics/about/map.png" width = "250" align='left'/>
+
+<p align="left">
+<h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Active Reconstruction for Buildings by Mobile Robots</h5>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2020.10 - now <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Generate Viewspace from frontier extraction. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Evaluate views by raycasting and gaussian process inference.<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Path planing in a receding horizon strategy.<br> 
+</p>
+---
 
 ----------
 

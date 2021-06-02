@@ -46,9 +46,12 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 <p align="left">
 <h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topic 1: Research on Target Grasp Using Aerial Manipulator based on DL</h5>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .09/2020~Now <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 </p>
 
----
+
 
 - [x] Propose an efficient deep learning network to identify the category and detect the precise location of specific object. 
 - [x] Design Image-Based Visual Servo(IBVS) controller to grasp objects in the clutter and complete the round-trip flight. Perform experiments to verify the performance when confronted with complex dynamic scenarios. 
@@ -61,11 +64,12 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 <h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topic 2: Onboard Real-time Object Detection for UAV</h5>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10/2019~ 11/2020 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The related paper was accepted by 2021IEEE CYBER as Oral Presentation.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 </p>
 
----
-
-### details:
+#### details:
 
 - [ ] The related code is open source in the [Gitee community of Huawei's Shengteng.](https://gitee.com/ascend)
 - [x] Design a powerful network pruning strategy to compress model size without extra loss of precision. 
@@ -80,6 +84,9 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 <h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topic 3: An Efficient Genetic Algorithm for Active Space Debris Removal Planning</h5>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .03/2018~ 01/2019 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The related paper was accepted by 2019IEEE CEC. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 </p>
 
 ---
@@ -97,9 +104,10 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 <p align="left">
 <h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topic 4: SAR image change detection based on deep learning</h5>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 07/2018~02/2019 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 </p>
-
----
 
 ### details:
 
@@ -114,6 +122,9 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 <h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topic 5: Air-Ground Logistics Integration with Dispatching UAV</h5>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 09/2016~04/2018 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The related paper was accepted by 2018NCCE. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 </p>
 
 ---
@@ -132,6 +143,9 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 <p align="left">
 <h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topic 6: </h5>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 09/2016~04/2018 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 </p>
 
 ---
@@ -141,6 +155,9 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 <p align="left">
 <h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topic 7: </h5>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 09/2016~04/2018 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 </p>
 
 ---
@@ -150,13 +167,16 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 <p align="left">
 <h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topic 8: </h5>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 09/2016~04/2018 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 </p>
 
 
 
 ## Selected  Awards and Honors
 
-- ***Third prize of “Code Craft”***, the 7th Huawei Software Contest in Coding                    Apr.2021   
+- ***Third prize of “Code Craft”***, the 7th Huawei Software Contest in Coding    <p align="right">Apr.2021</p>
 
   —Division of Guangdong-Hong Kong-Macao Greater Bay Area 
 

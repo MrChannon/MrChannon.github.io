@@ -160,6 +160,7 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 09/2016~04/2018 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 </p>
 

@@ -35,10 +35,15 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 
 ## News
 
-**[03/2021]** Two papers to appear in CVPR'2021.**[12/2020]** Our HiGAN is finally accepted by IJCV at the end of 2020!!**[10/2020]** Our extended InterFaceGAN is accepted by T-PAMI.**[09/2020]** We release [GenForce](https://github.com/genforce/genforce), an efficient PyTorch library for deep generative modeling.**[07/2020]** One paper to appear in ECCV'2020.**[04/2020]** HiGAN (short) to appear in [AI for Content Creation Workshop, CVPR 2020](http://visual.cs.brown.edu/aicc2020/).
-**[02/2020]** One paper to appear in CVPR'2020.
-**[03/2019]** One paper to appear in CVPR'2019.
-**[06/2018]** Two papers to appear in ECCV'2018.
+- **[03/2021]** Two papers to appear in CVPR'2021.
+- **[12/2020]** Our HiGAN is finally accepted by IJCV at the end of 2020!!
+- **[10/2020]** Our extended InterFaceGAN is accepted by T-PAMI.
+- **[09/2020]** We release [GenForce](https://github.com/genforce/genforce), an efficient PyTorch library for deep generative modeling.
+- **[07/2020]** One paper to appear in ECCV'2020.
+- **[04/2020]** HiGAN (short) to appear in [AI for Content Creation Workshop, CVPR 2020](http://visual.cs.brown.edu/aicc2020/).
+- **[02/2020]** One paper to appear in CVPR'2020.
+- **[03/2019]** One paper to appear in CVPR'2019.
+- **[06/2018]** Two papers to appear in ECCV'2018.
 
 ----------
 
@@ -49,9 +54,10 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 <p align="left">
 <h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topic 1: Research on Target Grasp Using Aerial Manipulator based on DL</h5>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .09/2020~Now <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Propose an efficient deep learning network to identify the category and detect the precise location of specific object. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Design Image-Based Visual Servo(IBVS) controller to grasp objects in the clutter and complete the round-trip flight. Perform experiments to verify the performance when confronted with complex dynamic scenarios.<br> 
 </p>
+
+- [x] Propose an efficient deep learning network to identify the category and detect the precise location of specific object. 
+- [x] Design Image-Based Visual Servo(IBVS) controller to grasp objects in the clutter and complete the round-trip flight. Perform experiments to verify the performance when confronted with complex dynamic scenarios. 
 
 ---
 

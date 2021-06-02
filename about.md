@@ -13,7 +13,7 @@ key: page-about
 ## **Long Chen**
 
 ----------------------------------------
-<!-- 在右侧添加个人照片-->
+<!-- 在右侧添加个人照片--> **<img src="./pics/about/photo.jpg" width = "250" align='right'/>**
 
 Master degree candidate, [Networked Robotics and Systems Lab](http://nrs-lab.com/)                   
 

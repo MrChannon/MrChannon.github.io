@@ -49,6 +49,7 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 </p>
 
 
@@ -69,8 +70,6 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 </p>
 
-#### details:
-
 - [ ] The related code is open source in the [Gitee community of Huawei's Shengteng.](https://gitee.com/ascend)
 - [x] Design a powerful network pruning strategy to compress model size without extra loss of precision. 
 - [x] Propose a flexible object tracking strategy to improve the effectiveness and stability.
@@ -87,11 +86,9 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 </p>
-
----
-
-### details:
 
 - [x] Model the debris planning problem as an multiple traveler salesman problem (MTSP).
 - [x] Propose a novel MTSP algorithm based on GA and design a new crossover-mutation strategy, to reduce the weighted sum of energy and time in one mission.
@@ -109,8 +106,6 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 </p>
 
-### details:
-
 - [x] Represent a scheme using neighborhood information and bilateral filter to improve the performance of SAR image change detection based on Difference Image(DI) analysis.
 - [x] Design a deep belief network to generate change detection map directly from two SAR images.
 
@@ -126,10 +121,6 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 </p>
-
----
-
-### details:
 
 - [x] Formulate routing and scheduling of UAV delivery problem as Dynamic Mixed Integer Linear Programming(MILP) model. Take various constraints into consideration.
 - [x] Verify the effectiveness of the path planning-aiding system by computational experiments with a commercial linear problem solver Gurobi.
@@ -174,9 +165,11 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 
 
 
+
+
 ## Selected  Awards and Honors
 
-- ***Third prize of “Code Craft”***, the 7th Huawei Software Contest in Coding    <p align="right">Apr.2021</p>
+- ***Third prize of “Code Craft”***, the 7th Huawei Software Contest in Coding   Apr.2021
 
   —Division of Guangdong-Hong Kong-Macao Greater Bay Area 
 

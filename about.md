@@ -13,7 +13,7 @@ key: page-about
 ## **Long Chen**
 
 ----------------------------------------
-<!-- 在右侧添加个人照片--> **<img src="./pics/about/photo.jpg" width = "250" align='right'/>**
+<!-- 在右侧添加个人照片--> 
 
 Master degree candidate, [Networked Robotics and Systems Lab](http://nrs-lab.com/)                   
 
@@ -21,9 +21,7 @@ School of Mechanical Engineering and Automation
 
 Harbin Institute of Technology, Shenzhen, China
 
-[E-mail]([19S053103@stu.hit.edu.cn](mailto:19S053103@stu.hit.edu.cn)) / [ResearchGate](h) / [Github](https://github.com/MrChannon)
-
-
+[E-mail](mailto:19S053103@stu.hit.edu.cn) / [ResearchGate](https://www.researchgate.net/profile/Long-Chen-97) / [Github](https://github.com/MrChannon)
 
 ## Biography
 

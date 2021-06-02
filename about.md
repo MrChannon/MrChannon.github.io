@@ -46,9 +46,9 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 <p align="left">
 <h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topic 1: Research on Target Grasp Using Aerial Manipulator based on DL</h5>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .09/2020~Now <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 </p>
 
 
@@ -64,9 +64,9 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 <h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topic 2: Onboard Real-time Object Detection for UAV</h5>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10/2019~ 11/2020 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The related paper was accepted by 2021IEEE CYBER as Oral Presentation.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 </p>
 
 #### details:
@@ -84,9 +84,9 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 <h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topic 3: An Efficient Genetic Algorithm for Active Space Debris Removal Planning</h5>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .03/2018~ 01/2019 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The related paper was accepted by 2019IEEE CEC. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 </p>
 
 ---
@@ -104,9 +104,9 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 <p align="left">
 <h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topic 4: SAR image change detection based on deep learning</h5>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 07/2018~02/2019 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 </p>
 
 ### details:
@@ -122,9 +122,9 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 <h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topic 5: Air-Ground Logistics Integration with Dispatching UAV</h5>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 09/2016~04/2018 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The related paper was accepted by 2018NCCE. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 </p>
 
 ---
@@ -143,9 +143,9 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 <p align="left">
 <h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topic 6: </h5>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 09/2016~04/2018 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 </p>
 
 ---
@@ -155,9 +155,9 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 <p align="left">
 <h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topic 7: </h5>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 09/2016~04/2018 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 </p>
 
 ---
@@ -167,9 +167,9 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 <p align="left">
 <h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topic 8: </h5>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 09/2016~04/2018 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 </p>
 
 

@@ -214,10 +214,40 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 
 ## Patent
 
-Under way
+- Under way
+
 
 
 
 ## Professional activities
 
-- To be updated
+#### Academic Organizers and Participants
+
+• The 5th Drone World Congress								 			  May. 2021
+• Volunteer of Guangdong-Hong Kong-Macao University Alliance for Engineering	  May. 2021
+• Tsinghua University “GUOQIANG” Institute Cup			   	   	          Dec. 2020
+• Interpreter of The 22nd China Hi-Tech Fair							   	  Aug. 2018
+
+#### Conference Presentations
+
+• **IEEE CYBER**, Jiaxin, China 										   		  July. 2021
+• **IEEE CEC**, Wellington, New Zealand 										  June. 2019
+
+#### Teaching
+
+Automation, NPU                                              Oct. 2017 - May. 2019
+• Auxiliary Instructor
+Robotic Design and Practice, HITSZ                          	     Jan. 2020 - Apr. 2020
+• Course Teaching Assistant
+Data Structures and Algorithms (S8301028CN), HITSZ               Mar. 2021 - June. 2021
+• Course Teaching Assistant
+
+#### Internships and Other Experiences
+
+Global Youth Leadership Academy(GYLA), UN Agencies                         Jan.2021
+• Trainee
+UI-CREATES Program “Learning the World of Diversity”, Univeritas Indonesia      Aug.2018
+• Trainee of Organizational Behavior Course
+Key Laboratory of Speech and Image Information Processing of Shaanxi Provincial, NPU	
+• Intern			                                            June. 2018 - Aug. 2018
+

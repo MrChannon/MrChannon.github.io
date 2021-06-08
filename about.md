@@ -39,7 +39,7 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 
 ## Projects 
 
-<img src="./pics/about/figure.jpg" width = "250" align='left'/>
+<img src="./pics/about/grasp.png" width = "270" align='left'/>
 
 <p align="left">
 <h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topic 1: Research on Target Grasp Using Aerial Manipulator based on DL</h5>
@@ -97,12 +97,13 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 <img src="./pics/about/data2.png" width = "250" align='left'/>
 
 <p align="left">
-<h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topic 4: SAR image change detection based on deep learning</h5>
+<h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topic 4: SAR Image Change Detection based on Deep Learning</h5>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 07/2018~02/2019 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 </p>
+
 
 - [x] Represent a scheme using neighborhood information and bilateral filter to improve the performance of SAR image change detection based on Difference Image(DI) analysis.
 - [x] Design a deep belief network to generate change detection map directly from two SAR images.
@@ -127,41 +128,44 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 
 ## Other Projects 
 
-<img src="./pics/about/map.png" width = "250" align='left'/>
+<img src="./pics/about/map.png" width = "280" align='left'/>
 
 <p align="left">
-<h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topic 6: </h5>
+<h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topic 6: A Campus Tour Guide System.</h5>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 09/2016~04/2018 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 </p>
 
+- [x] Design a campus tour guide system to provide building and road information inquiry service for people visiting the campus.
+
+
 ---
 
-<img src="./pics/about/noise.png" width = "250" align='left'/>
+<img src="./pics/about/noise.png" width = "280" align='left'/>
 
 <p align="left">
-<h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topic 7: </h5>
+<h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topic 7: Image Denoising</h5>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 09/2016~04/2018 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 </p>
 
+
 ---
 
-<img src="./pics/about/palmprint.png" width = "250" align='left'/>
+<img src="./pics/about/palmprint.png" width = "280" align='left'/>
 
 <p align="left">
-<h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topic 8: </h5>
+<h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topic 8: Biometric System Application: Palmprint Recognition</h5>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 09/2016~04/2018 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 </p>
-
 
 
 
@@ -223,31 +227,25 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 
 #### Academic Organizers and Participants
 
-• The 5th Drone World Congress								 			  May. 2021
-• Volunteer of Guangdong-Hong Kong-Macao University Alliance for Engineering	  May. 2021
-• Tsinghua University “GUOQIANG” Institute Cup			   	   	          Dec. 2020
-• Interpreter of The 22nd China Hi-Tech Fair							   	  Aug. 2018
+- The 5th Drone World Congress								 			  `May. 2021`
+-  Volunteer of Guangdong-Hong Kong-Macao University Alliance for Engineering	  `May. 2021`
+- Tsinghua University “GUOQIANG” Institute Cup			   	   	          `Dec. 2020`
+- Interpreter of The 22nd China Hi-Tech Fair							   	  `Aug. 2018`
 
 #### Conference Presentations
 
-• **IEEE CYBER**, Jiaxin, China 										   		  July. 2021
-• **IEEE CEC**, Wellington, New Zealand 										  June. 2019
+- **IEEE CYBER**, Jiaxin, China 										   		  `July. 2021`
+- **IEEE CEC**, Wellington, New Zealand 										  `June. 2019`
 
 #### Teaching
 
-Automation, NPU                                              Oct. 2017 - May. 2019
-• Auxiliary Instructor
-Robotic Design and Practice, HITSZ                          	     Jan. 2020 - Apr. 2020
-• Course Teaching Assistant
-Data Structures and Algorithms (S8301028CN), HITSZ               Mar. 2021 - June. 2021
-• Course Teaching Assistant
+- Automation, NPU                              `Oct. 2017 - May. 2019` ***• Auxiliary Instructor*** 
+- Robotic Design and Practice, HITSZ              `Jan. 2020 - Apr. 2020`  ***• Course Teaching Assistant***
+- Data Structures and Algorithms (S8301028CN), HITSZ               `Mar. 2021 - June. 2021`  ***• Course Teaching Assistant***
 
 #### Internships and Other Experiences
 
-Global Youth Leadership Academy(GYLA), UN Agencies                         Jan.2021
-• Trainee
-UI-CREATES Program “Learning the World of Diversity”, Univeritas Indonesia      Aug.2018
-• Trainee of Organizational Behavior Course
-Key Laboratory of Speech and Image Information Processing of Shaanxi Provincial, NPU	
-• Intern			                                            June. 2018 - Aug. 2018
+- Global Youth Leadership Academy(GYLA), UN Agencies                         `Jan.2021`  ***• Trainee***
+- UI-CREATES Program “Learning the World of Diversity”, Univeritas Indonesia      `Aug.2018` ***• Trainee of Organizational Behavior Course***
+- Key Laboratory of Speech and Image Information Processing of Shaanxi Provincial, NPU	 `June. 2018 - Aug. 2018`    ***• Intern***
 

@@ -88,6 +88,7 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 </p>
 
 - [x] Model the debris planning problem as an multiple traveler salesman problem (MTSP).

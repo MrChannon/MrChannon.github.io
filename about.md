@@ -13,7 +13,7 @@ key: page-about
 ## **Long Chen**
 
 ----------------------------------------
-<!-- 在右侧添加个人照片--> 
+<!-- 在右侧添加个人照片-->  <img src="./pics/about/photo43.jpg" width = "120" align='right'/>
 
 Master degree candidate, [Networked Robotics and Systems Lab](http://nrs-lab.com/)                   
 
@@ -31,7 +31,9 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 
 ## News
 
+- **[06/2021]** Won the funding of "Space New Energy Cup" Innovation Star.
 - **[04/2021]** One paper to appear in CYBER'2021.
+- **[09/2019]** Be a new graduate student.
 - **[07/2019]** Receive the B. Eng degree.
 - **[06/2019]** One paper to appear in CEC'2019.
 
@@ -136,6 +138,7 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 </p>
 
 - [x] Design a campus tour guide system to provide building and road information inquiry service for people visiting the campus.
@@ -172,29 +175,29 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 
 ## Selected  Awards and Honors
 
-- ***Third prize of “Code Craft”***, the 7th Huawei Software Contest in Coding   Apr.2021
+- ***Third prize of “Code Craft”***, the 7th Huawei Software Contest in Coding   `Apr.2021`
 
   —Division of Guangdong-Hong Kong-Macao Greater Bay Area 
 
-- ***First-Class Student Award***, HITSZ            	                Nov.2019 - Nov.2020
+- ***First-Class Student Award***, HITSZ            	                `Nov.2019 - Nov.2020`
 
-- ***Honor of Outstanding Graduate***, NPU (Top 3%)           	            July. 2019
+- ***Honor of Outstanding Graduate***, NPU (Top 3%)           	            `July. 2019`
 
-- [***National Scholarship***](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91/9693046?fr=aladdin) , China Ministry of Education (Top 1%)                 Oct. 2018
+- [***National Scholarship***](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91/9693046?fr=aladdin) , China Ministry of Education (Top 1%)                 `Oct. 2018`
 
   —Highest award for undergraduates in China
 
-- ***Honorable Mention***, of American Mathematical Contest in Modeling.             Jan. 2018
+- ***Honorable Mention***, of American Mathematical Contest in Modeling.             `Jan. 2018`
 
-- ***National Encouragement Scholarship***,                  Oct. 2017
+- ***National Encouragement Scholarship***,                  `Oct. 2017`
 
   China Ministry of Finance
 
-- [***National Scholarship***](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91/9693046?fr=aladdin) , China Ministry of Education (Top 2%)               Oct. 2016
+- [***National Scholarship***](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91/9693046?fr=aladdin) , China Ministry of Education (Top 2%)               `Oct. 2016`
 
   —Highest award for undergraduates in China
 
--  ***First-class Student Award***, NPU                                  Nov. 2016 - Nov. 2019
+-  ***First-class Student Award***, NPU                                  `Nov. 2016 - Nov. 2019`
 
 
 

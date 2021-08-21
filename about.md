@@ -175,7 +175,7 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 
 ---
 
-<img src="./pics/about/modelplane.jpg" width = "280" align='left'/>
+<img src="./pics/about/modelplane.jpg" width = "200" align='left'/>
 
 <p align="left">
 <h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topic 9: Model Airplane</h5>

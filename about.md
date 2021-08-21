@@ -135,7 +135,7 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 
 <p align="left">
 <h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topic 6: A Campus Tour Guide System.</h5>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 09/2016~04/2018 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 07/2020~08/2020 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
@@ -144,19 +144,19 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 
 - [x] Design a campus tour guide system to provide building and road information inquiry service for people visiting the campus.
 
-
 ---
 
 <img src="./pics/about/noise.png" width = "280" align='left'/>
 
 <p align="left">
 <h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topic 7: Image Denoising</h5>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 09/2016~04/2018 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 04/2020~04/2020 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 </p>
 
+- [x] Do denoising for a given image dataset.
 
 ---
 
@@ -164,15 +164,29 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 
 <p align="left">
 <h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topic 8: Biometric System Application: Palmprint Recognition</h5>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 09/2016~04/2018 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 05/2020~06/2020 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
 </p>
 
+- [x] Design a framework to realize fingerprint recognition.
 
+---
 
+<img src="./pics/about/modelplane.jpg" width = "280" align='left'/>
+
+<p align="left">
+<h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topic 9: Model Airplane</h5>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 04/2017~06/2017 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .<br>
+</p>
+
+- [x] Make model airplane modules and splicing, and finally achieve air flight.
 
 ## Selected  Awards and Honors
 

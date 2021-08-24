@@ -228,7 +228,7 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 3. Zhang, Y., Zhai, S., Wang, D., & **Chen, L.** (2018, May). Path Planning-aiding System of
    Unmanned Aerial Vehicle in Freight Transportation. In 2018 International Conference
    on Network, Communication, Computer Engineering (NCCE 2018). Atlantis Press. [pdf](https://www.atlantis-press.com/proceedings/ncce-18/25896641)
-4. **Chen, L.**, Hu, J., Li, X., Quan, F., & Chen, H. (2021, July).Onboard Real-time Object Detection for UAV with Embedded NPU. In *2021 11th Institute of Electrical and Electronics Engineers  International Conference on Cyber Technology in Automation, Control, and Intelligent Systems (CYBER)* (pp. 43-48). IEEE. [pdf]()
+4. **Chen, L.**, Hu, J., Li, X., Quan, F., & Chen, H. (2021, July).Onboard Real-time Object Detection for UAV with Embedded NPU. In *2021 11th Institute of Electrical and Electronics Engineers  International Conference on Cyber Technology in Automation, Control, and Intelligent Systems (CYBER)* (pp. 43-48). IEEE. [pdf](https://ieee-cyber.org/2021/)
 
 ----------
 

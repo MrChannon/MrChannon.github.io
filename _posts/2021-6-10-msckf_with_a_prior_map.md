@@ -15,9 +15,9 @@ Visual-Inertial Localization With Prior LiDAR Map Constraints
 
 ## State Vector
 
-$$
+$
 x_{k} = [^{I_{k}}_{G}\overline{q}^\top\ b_\omega ^\top\ ^Gv_{I_{k}}^\top \ b_{a}^\top\ ^Gp_{I_{k}}^\top\ ^M_G\overline{q}^\top\ ^Gp_M ^\top\ x_C ^\top]
-$$ 
+$
 
 相对于传统MSCKF，多估计了两个状态$^M_G\overline{q}^\top$与$^Gp_{M}^\top$, 分别表示激光雷达点云自身坐标系的原点在IMU坐标系下的旋转与平移。
 

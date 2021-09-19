@@ -221,3 +221,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+
+## => markdown
+########################
+markdown: kramdown

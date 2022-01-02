@@ -31,6 +31,7 @@ Before that, He received the B. Eng degree in Automation (Information Engineerin
 
 ## News
 
+- **[01/2022]** Receive the M. Eng degree.
 - **[06/2021]** Won the funding of "Space New Energy Cup" Innovation Star.
 - **[04/2021]** One paper to appear in CYBER'2021.
 - **[09/2019]** Be a new graduate student.
